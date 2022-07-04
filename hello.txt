@@ -28,3 +28,9 @@ hello git! -- zg
 hello master!
 4444444444444444444444444444444444     hello hot-fix
 add ------- github new
+git bash 修改添加汉字
+修改添加汉字
+修改添加汉字
+修改添加汉字
+修改添加汉字
+
